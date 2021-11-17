@@ -637,8 +637,8 @@ footer {
 
 .bullets ul li a {
     display: inline-block;
-    width: 21px;
-    height: 21px;
+    width: 19px;
+    height: 19px;
     border: 3px solid var(--main-color);
     border-radius: 50%;
 }
@@ -672,14 +672,15 @@ footer {
         overflow-x: hidden;
         font-family: "Open Sans", sans-serif;
     }
+    .HText {
+        margin-top: 190px;
+        width: 90%;
+    }
     .HText h1 {
-        font-size: 1.7rem;
+        font-size: 1.3rem;
     }
     .HText p {
-        font-size: 1.2rem;
-    }
-    .HText {
-        width: 80%;
+        font-size: 0.8rem;
     }
     .aboutus-txt {
         text-align: center;
