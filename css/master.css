@@ -673,14 +673,14 @@ footer {
         font-family: "Open Sans", sans-serif;
     }
     .HText {
-        margin-top: 190px;
+        margin-top: 200px;
         width: 90%;
     }
     .HText h1 {
         font-size: 1.3rem;
     }
     .HText p {
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
     .aboutus-txt {
         text-align: center;
